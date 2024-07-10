@@ -15,8 +15,8 @@ a {color: var(--text-color);}
 	--color-light-grey: #f3f3f3;
 	--color-dark-grey: #353535;
 	--text-color: var(--color-black);
-		--font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
-		--fontfont-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
+	--font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
+	--font-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 
