@@ -48,10 +48,7 @@ a:active {background-color: var(--color-light-grey);}
 	padding-bottom: var(--section-body-padding);
 }
 .section-footer {
-	padding-top: var(--section-footer-padding);
-	padding-right: var(--section-footer-padding);
-	padding-left: var(--section-footer-padding);
-	padding-bottom: var(--section-footer-padding);
+	padding: var(--section-footer-padding);
 	text-align: var(--section-footer-align);
 }
 .section-title {
