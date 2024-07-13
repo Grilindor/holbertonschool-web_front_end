@@ -250,7 +250,7 @@ ul.footer {
 }
 
 .card-testimonial .card-avatar {
-	padding: 0.5rem;
+	border-radius: 50%;
 	width: 10rem;
 	height: 10rem;
 }
@@ -258,6 +258,6 @@ ul.footer {
 
 .card-testimonial .card-quote cite {
 	display: block;
-	padding: 1rem;
+	padding-top: 1rem;
 	color: var(--color-primary);
 }
