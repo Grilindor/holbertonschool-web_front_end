@@ -190,7 +190,7 @@ ul.footer {
 }
 
 .footer-address {
-	color:var(--color-white);
+	color:var(--text-color);
 }
 
 .social-link {
