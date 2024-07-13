@@ -118,11 +118,7 @@ ul.footer {
 	text-align: right;
 }
 
-.row::after {
-	content: "";
-	display: table;
-	clear: both;
-}
+
 
 :root {
 	--color-primary: #d73953;
@@ -174,4 +170,10 @@ ul.footer {
 
 .footer {
 	padding: var(--footer-padding);
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
 }
